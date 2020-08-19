@@ -1,12 +1,12 @@
-######Neural Singularity - A Deep Learning Course
+_Neural Singularity - A Deep Learning Course_
 # Lesson 01
 How to write a simple AI image recognizer in your browser
+
+![Finished Application](image01.png)
 
 This lesson will teach you how to create a state-of-art image classifier from scratch. We would not be training a neural network, so you do not need any fancy GPU to recognize and classify simple images.
 
 The setup we will be focusing on will be for windows environment. Other operating systems will have roughly similar steps.
-
-![Finished Application](image01.png)
 
 ##Installing Python
 Deep learning relies on well-written and well-optimized frameworks that do the heavy lifting. One of the biggest advantage of python is its simplicity and when it comes to deep learning, a lot of high quality and mature frameworks are already available. So unless you want to reinvent the wheel, Python is the way to go.
